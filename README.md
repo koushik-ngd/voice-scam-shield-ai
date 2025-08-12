@@ -1,5 +1,8 @@
 # voice-scam-shield-ai
 
+Link to the project files on Google Drive: https://drive.google.com/file/d/17ArVrmt8BZulkk9VnW0VeazoqW4e23Sh/view?usp=drive_link
+Link to the project working screenshots on Google Drive: https://drive.google.com/drive/folders/1EfiH0_3sjc36UlENB6pQ_ALBnKrSbNMn?usp=sharing
+
 About the project
 AI Voice Scam Shield protects people during calls by evaluating short snippets of audio and telling them, in plain language and clear colors, whether the conversation appears safe, needs caution, or is likely a scam. The intent is calm guidance, not alarm—quick signals and simple choices so decisions are easier in the moment.
 
