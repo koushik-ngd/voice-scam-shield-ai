@@ -21,5 +21,6 @@ Muaaz led the backend, delivering FastAPI services, Redis orchestration, deploym
 Koushik led the AI work, integrating ElevenLabs, defining risk scoring, and shaping thresholds and smoothing. 
 Aayan led the frontend, building the React UI for real‑time status, audio handling, dashboards, and settings.
 
-Closing note
+Closing note:
+
 The result is a quiet, fast, and privacy‑minded shield that supports good decisions during uncertain calls, built with care and meant to be extended.
